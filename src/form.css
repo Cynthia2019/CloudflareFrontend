@@ -1,0 +1,23 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+label {
+    margin: 3px 0;
+}
+
+input {
+    margin: 3px 0;
+    padding: 10px;
+}
+textarea {
+    margin: 3px 0;
+    padding: 10px;
+}
+#title, 
+#author,
+#submit-btn {
+    width: 30%
+}
